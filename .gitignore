@@ -1,0 +1,19 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Local environment / secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies and build output (not currently used by this project)
+node_modules/
+dist/
+build/
